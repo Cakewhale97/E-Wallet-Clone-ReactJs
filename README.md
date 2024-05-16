@@ -44,4 +44,8 @@ This project is a clone of Apple Wallet or Google Wallet built using React.js, R
 - **Click on a card** to view detailed information about the card.
   
 - **Use the navigation menu** to add a new card to your wallet.
+- 
+<img src="https://github.com/Cakewhale97/E-Wallet-Clone-ReactJs/assets/121439769/d2381bec-e63e-4700-979d-fb80e2461810" alt="Skärmavbild 2024-05-16 kl. 21.48.36" width="500">
+
+<img src="https://github.com/Cakewhale97/E-Wallet-Clone-ReactJs/assets/121439769/4fa675bb-fed9-48fe-8c98-6eff23cc4ffc" width="600">
 
